@@ -1,3 +1,3 @@
-module github.com/matheusfillipe/curl-go
+module github.com/andelf/go-curl
 
 go 1.21.5
